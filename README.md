@@ -8,3 +8,8 @@ Always eager to learn, collaborate, and contribute to innovative projects that p
 🎮 Recently embarked on an exciting journey into game development with Unreal Engine – because who says coding can't be fun?
 
 Let's build the future, one commit at a time! 💻✨
+
+## 🏆 Proud Project
+1. [Restaurant Management System](https://github.com/EdenKantor/BiteMe-Project.git)
+   - Java, JavaFX GUI, MySQL, JDBC, OCSF
+   - Client-server architecture for efficient restaurant management
