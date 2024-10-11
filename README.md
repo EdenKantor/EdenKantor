@@ -10,8 +10,8 @@ Always eager to learn, collaborate, and contribute to innovative projects that p
 Let's build the future, one commit at a time! 💻✨
 
 ## 💻 Technical Skills
-- ** Programming Languages: Python, Java, JavaScript, C, C#, C++, SQL, HTML, CSS, Assembly
-- ** Tools & Technologies: Linux, MATLAB, Arduino, VHDL, Unreal
+-  Programming Languages: Python, Java, JavaScript, C, C#, C++, SQL, HTML, CSS, Assembly
+-  Tools & Technologies: Linux, MATLAB, Arduino, VHDL, Unreal
 
 ## 🏆 Proud Project
 1. [Restaurant Management System](https://github.com/EdenKantor/BiteMe-Project.git)
