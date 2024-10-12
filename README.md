@@ -20,4 +20,4 @@ Let's build the future, one commit at a time! 💻✨
 
 2. [Bluetooth Arduino Robot](https://github.com/EdenKantor/Arduino-Robot-Car-Project-.git)
    - Arduino IDE, C, Bluetooth modules
-   - A Bluetooth-controlled Arduino robot with obstacle detection, LED signaling, and real-time distance display using an ultrasonic sensor and LCD.
+   - A Bluetooth-controlled Arduino robot with obstacle detection, LED signaling, and real-time distance display using an ultrasonic sensor and LCD
