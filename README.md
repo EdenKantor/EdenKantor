@@ -13,7 +13,7 @@ Let's build the future, one commit at a time! 💻✨
 -  Programming Languages: Python, Java, JavaScript, C, C#, C++, SQL, HTML, CSS, Assembly
 -  Tools & Technologies: Linux, MATLAB, Arduino, VHDL, Unreal
 
-## 🏆 Proud Project
+## 🏆 Notable Projects
 1. [Restaurant Management System](https://github.com/EdenKantor/BiteMe-Project.git)
    - Java, JavaFX GUI, MySQL, JDBC, OCSF
    - Client-server architecture for efficient restaurant management
