@@ -5,12 +5,9 @@
 
 ## 👨‍💻 About Me
 
-🎓 I'm a Software Engineering student based in Israel  
-💡 I love building clean, smart and useful applications  
-💬 Currently working with **C# (.NET, WPF, MVVM)** in my student position  
-🌱 Always exploring new technologies, especially **Machine Learning** & **Game Development**  
-🌌 Dreaming of contributing to space-tech, robotics & AI  
-🧠 Let’s build a better future — one commit at a time
+🎓 Software Engineering student with hands-on experience in C#, .NET (WPF, MVVM), Java and full-stack web development.  
+💡 Passionate about solving real-world problems through clean, reliable code.  
+🤝 Team player, fast learner, and always curious to improve.
 
 ---
 
