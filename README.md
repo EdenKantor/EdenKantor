@@ -43,11 +43,22 @@
 
 ---
 
-### 3️⃣ [Bluetooth Arduino Robot](https://github.com/EdenKantor/Arduino-Robot-Car-Project-.git)  
+### 3️⃣ [BadgerSearch – Oracle Cloud Search System](https://github.com/EdenKantor/Oracle-Cloud-Search-System.git)  
+📌 *Google Colab, Python, Firebase, JSON, Data Crawling*  
+- Cloud-based search engine for Oracle documentation content  
+- Includes chatbot, admin tools, and statistical insights  
+- Implements modular microservices logic in a single Colab notebook  
+- Integrated with Firebase for real-time data handling and analysis  
+[▶️ Open in Google Colab](https://colab.research.google.com/drive/1pQCkM-DXVlDmNmDWWTv5PLsH19PMh875?usp=sharing)
+
+---
+
+### 4️⃣ [Bluetooth Arduino Robot](https://github.com/EdenKantor/Arduino-Robot-Car-Project-.git)  
 📌 *Arduino IDE, C, HC-05 Bluetooth, Ultrasonic Sensor*  
 - Bluetooth-controlled robot car with obstacle detection  
 - LED signaling and real-time distance feedback on LCD  
 - Implemented using low-level embedded programming and electronics
+
 
 ---
 
