@@ -1,21 +1,60 @@
-# Eden Kantor | Software Engineer 👨‍💻
+<h1 align="center">Hey there 👋, I'm Eden Kantor</h1>
+<h3 align="center">🚀 Passionate Software Engineer | Problem Solver | Future Builder</h3>
 
-## 👋 About Me
-🚀 Hi there, I'm Eden An aspiring Software Engineer passionate about crafting elegant solutions to complex problems.
-Currently honing my skills in Java, C#, C, and C++. 
-Always eager to learn, collaborate, and contribute to innovative projects that push the boundaries of what's possible in tech.
+---
 
-Let's build the future, one commit at a time! 💻✨
+## 👨‍💻 About Me
 
-## 💻 Technical Skills
--  Programming Languages: Python, Java, JavaScript, C, C#, C++, SQL, HTML, CSS, Assembly
--  Tools & Technologies: Linux, MATLAB, Arduino, VHDL, Unreal
+🎓 I'm a Software Engineering student based in Israel  
+💡 I love building clean, smart and useful applications  
+💬 Currently working with **C# (.NET, WPF, MVVM)** in my student position  
+🌱 Always exploring new technologies, especially **Machine Learning** & **Game Development**  
+🌌 Dreaming of contributing to space-tech, robotics & AI  
+🧠 Let’s build a better future — one commit at a time
 
-## 🏆 Notable Projects
-1. [Restaurant Management System](https://github.com/EdenKantor/BiteMe-Project.git)
-   - Java, JavaFX GUI, MySQL, JDBC, OCSF
-   - Client-server architecture for efficient restaurant management
+---
 
-2. [Bluetooth Arduino Robot](https://github.com/EdenKantor/Arduino-Robot-Car-Project-.git)
-   - Arduino IDE, C, Bluetooth modules
-   - A Bluetooth-controlled Arduino robot with obstacle detection, LED signaling, and real-time distance display using an ultrasonic sensor and LCD
+## 💻 Tech Stack
+
+**Languages**  
+`C#` `Java` `C++` `JavaScript` `Python` `SQL` `HTML` `CSS` `Assembly`
+
+**Frameworks & Tools**  
+`.NET Framework` `WPF` `MVVM` `Node.js` `Express` `MongoDB` `Preact` `Tailwind CSS`  
+`Arduino` `Linux` `MATLAB` `Unreal` `Git` `OOP` `REST APIs`
+
+---
+
+## 🏆 Featured Projects
+
+### 1️⃣ [Restaurant Management System](https://github.com/EdenKantor/BiteMe-Project.git)  
+📌 *Java, JavaFX GUI, MySQL, JDBC, OCSF*  
+- Full-stack system for managing a restaurant chain  
+- Supports multiple user types: customer, employee, manager, CEO  
+- Real-time data sync via client-server architecture  
+
+---
+
+### 2️⃣ [WebFitPro – Fitness Challenge App](https://github.com/EdenKantor/Fitness-Challenge-App.git)  
+📌 *Node.js, Express, MongoDB, Preact, Tailwind CSS*  
+[🌐 Live Demo](https://web-fit-pro-front-kappa.vercel.app)
+
+- Full-stack fitness platform for tracking challenges and community engagement  
+- Includes login system, admin panel, BMI calculator, and light/dark mode  
+- Features real-time filtering, progress tracking, and motivational quotes  
+- Built in modular frontend/backend repos with RESTful API integration  
+
+---
+
+### 3️⃣ [Bluetooth Arduino Robot](https://github.com/EdenKantor/Arduino-Robot-Car-Project-.git)  
+📌 *Arduino IDE, C, HC-05 Bluetooth, Ultrasonic Sensor*  
+- Bluetooth-controlled robot car with obstacle detection  
+- LED signaling and real-time distance feedback on LCD  
+- Implemented using low-level embedded programming and electronics
+
+---
+
+## 📬 Let's Connect!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Eden_Kantor-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/edenkantor)  
+[![GitHub](https://img.shields.io/badge/GitHub-EdenKantor-black?logo=github&style=for-the-badge)](https://github.com/EdenKantor)
