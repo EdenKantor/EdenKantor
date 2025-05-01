@@ -24,7 +24,7 @@
 
 ## 🏆 Featured Projects
 
-### 1️⃣ [BiteME - Restaurant Management System](https://github.com/EdenKantor/BiteMe-Project.git)  
+### 1️⃣ [BiteMe - Restaurant Management System](https://github.com/EdenKantor/BiteMe-Project.git)  
 📌 *Java, JavaFX GUI, MySQL, JDBC, OCSF*  
 - Full-stack system for managing a restaurant chain  
 - Supports multiple user types: customer, employee, manager, CEO  
