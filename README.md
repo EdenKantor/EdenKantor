@@ -14,7 +14,7 @@
 ## 💻 Tech Stack
 
 **Languages**  
-`C#` `Java` `C++` `JavaScript` `Python` `SQL` `HTML` `CSS` `Assembly`
+`C` `C#` `Java` `C++` `JavaScript` `Python` `SQL` `HTML` `CSS` `Assembly`
 
 **Frameworks & Tools**  
 `.NET Framework` `WPF` `MVVM` `Node.js` `Express` `MongoDB` `Preact` `Tailwind CSS`  
