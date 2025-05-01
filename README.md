@@ -45,11 +45,12 @@
 
 ### 3️⃣ [BadgerSearch – Oracle Cloud Search System](https://github.com/EdenKantor/Oracle-Cloud-Search-System.git)  
 📌 *Google Colab, Python, Firebase, JSON, Data Crawling*  
+[▶️ Open in Google Colab](https://colab.research.google.com/drive/1pQCkM-DXVlDmNmDWWTv5PLsH19PMh875?usp=sharing)
+
 - Cloud-based search engine for Oracle documentation content  
 - Includes chatbot, admin tools, and statistical insights  
 - Implements modular microservices logic in a single Colab notebook  
 - Integrated with Firebase for real-time data handling and analysis  
-[▶️ Open in Google Colab](https://colab.research.google.com/drive/1pQCkM-DXVlDmNmDWWTv5PLsH19PMh875?usp=sharing)
 
 ---
 
