@@ -1,5 +1,5 @@
 <h1 align="center">Hey there 👋, I'm Eden Kantor</h1>
-<h3 align="center">🚀 Passionate Software Engineer | Problem Solver | Future Builder</h3>
+<h3 align="center">🚀 Software Engineer | Hands-on, curious, and always learning </h3>
 
 ---
 
